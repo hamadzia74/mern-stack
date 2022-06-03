@@ -1,0 +1,22 @@
+/* element/tag selector
+*/
+div {
+  background-color: green;
+  padding: 1em;
+}
+
+/* class selector */
+.class-name {
+  padding: 1em;
+  background-color: yellow;
+}
+
+/* id selector */
+#main {
+  padding: 1em;
+  background-color: red;
+}
+
+#main .lead {
+  background-color: green;
+}
