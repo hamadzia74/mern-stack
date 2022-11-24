@@ -1,0 +1,20 @@
+.buttons-display {
+  width: 100%;
+}
+
+.buttons-row button {
+  width: 25%;
+  background-color: #e0e0e0;
+  border: 1px solid #858694;
+  font-size: 3.32rem;
+  padding: 1.1rem 1.7rem 1.1rem 1.7rem;
+  font-weight: 400;
+  color: #000;
+}
+.button-span {
+  width: 50% !important;
+}
+.button-color-orange {
+  background-color: #f5923e !important;
+  color: #fff !important;
+}
