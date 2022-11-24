@@ -1,0 +1,10 @@
+.values-display {
+  width: 100%;
+  background-color: #858694;
+  color: white;
+  text-align: right;
+}
+.values-comp {
+  font-size: 5.3rem;
+  padding: 0rem 1.7rem 0rem 0rem;
+}
