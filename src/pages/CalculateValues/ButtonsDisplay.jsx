@@ -14,7 +14,7 @@ function ButtonsDisplay() {
     setSign(inputSign);
     setVal(0);
     setPrevVal(val);
-  };
+  }
 
   const inputVal = (e) => {
     const input = e.target.value;
